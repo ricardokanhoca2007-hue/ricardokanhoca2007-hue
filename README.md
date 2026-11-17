@@ -1,6 +1,6 @@
 # Hi, I'm Ricardo Kanhoca 👋
 
-Computer Engineering student at **Instituto Politécnico de Santarém, Portugal**, interested in Software Engineering, FinTech, Technology Consulting and the intersection of Technology, Finance and Data Analytics.
+Computer Engineering student at **Universidade Politécnica de Santarém, Portugal**, interested in Software Engineering, FinTech, Technology Consulting and the intersection of Technology, Finance and Data Analytics.
 
 I enjoy developing software solutions, solving technical problems and exploring how technology can improve business processes and financial services.
 
@@ -51,7 +51,7 @@ I enjoy developing software solutions, solving technical problems and exploring 
 ## Education
 
 **BSc in Computer Engineering**\
-Instituto Politécnico de Santarém — Portugal
+Universidade Politécnica de Santarém — Portugal
 
 ## Connect with Me
 
